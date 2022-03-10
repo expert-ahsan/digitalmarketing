@@ -1,0 +1,492 @@
+/*// `sm` applies to x-small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*Header Start*/
+header {
+    padding: 20px 0px !important;
+    background: #362a5aed;
+}
+/*Header Start*/
+/*Banner Start*/
+.slider_wrap {
+    padding-top: 100px !important;
+}
+.banh1 {
+    font-size: 30px !important;
+}
+.ban_hr {
+    width: 20% !important;
+}
+.ban_text {
+    line-height: 30px;
+}
+.cus_indi {
+    bottom: -90px !important;
+}
+/*Banner End*/
+/*About Strat*/
+#about {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.about_text_wrap {
+    text-align: center;
+}
+/*About End*/
+/*About Video Start*/
+#ab_video {
+    min-height: 200px !important;
+}
+.vi_content {
+    margin: 53px auto !important;
+    text-align: center !important;
+}
+.vi_icon i {
+    font-size: 50px !important;
+}
+/*About Video End*/
+/*Expertise Start*/
+#expertise {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.exp_box {
+    padding: 30px 0px !important;
+}
+.exp_box h5 {
+    margin: 10px 0 !important;
+    font-size: 18px !important;
+}
+.border01 {
+    border: 1px solid #ebebeb !important;
+}
+.border02 {
+    border: 1px solid #ebebeb !important;
+}
+.border03 {
+    border: 1px solid #ebebeb !important;
+}
+.border04 {
+    border: 1px solid #ebebeb !important;
+}
+/*Expertise End*/
+/*Card Start*/
+#team {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.cus_crm {
+    margin: 0 0 25px 0 !important;
+}
+.cus_card_margin {
+    margin-top: 25px !important;
+}
+/*Card Start*/
+/*Work Start*/
+.work_h1 {
+    text-align: center;
+}
+#work {
+    padding-top: 50px !important;
+}
+/*Work End*/
+/*Gallery Start*/
+.box {
+    height: 145px !important;
+}
+/*Gallery End*/
+/*Testimonial Start*/
+#testimonial {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+.owl-pagination {
+    position: relative !important;
+    z-index: 1 !important;
+    width: 100% !important;
+}
+.owl-buttons {
+    display: none !important;
+}
+.owl-prev, .owl-next {
+    left: -7% !important;
+}
+.owl-next {
+    left: 84% !important;
+}
+/*Testimonial End*/
+/*Contact Start*/
+#contact {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.form_part h4 {
+    font-size: 25px !important;
+    text-align: center !important;
+}
+.brand_part h4 {
+    font-size: 25px !important;
+    margin-top: 20px !important;
+    margin-bottom: 0 !important;
+}
+/*Contact End*/
+/*Footer Start*/
+#footer {
+    padding-bottom: 40px !important;
+}
+.foo_con_padding {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+.footer_logo {
+    text-align: center;
+}
+.address_wraper2 h4 {
+    margin-bottom: 20px !important;
+    text-align: center;
+}
+.social_icon ul li {
+    width: 35px !important;
+    height: 35px !important;
+}
+.social_icon ul li a i {
+    padding: 9px !important;
+}
+.copy_text {
+    text-align: center !important;
+    margin-top: 15px !important;
+}
+/*Footer End*/
+}
+
+
+/*// `md` applies to small devices (landscape phones, less than 768px)*/ /*=========== 576px to 767.98px*================*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*Header Start*/
+header {
+    padding: 20px 0px !important;
+    background: #362a5aed;
+}
+/*Header Start*/
+/*Banner Start*/
+.banner {
+    min-height: 570px !important;
+}
+.slider_wrap {
+    padding-top: 150px !important;
+}
+.banh1 {
+    font-size: 30px !important;
+}
+.ban_hr {
+    width: 20% !important;
+}
+.ban_text {
+    line-height: 30px;
+}
+.cus_indi {
+    bottom: -90px !important;
+}
+/*Banner End*/
+/*About Strat*/
+#about {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.about_text_wrap {
+    text-align: center;
+}
+/*About End*/
+/*About Video Start*/
+#ab_video {
+    height: 200px !important;
+}
+.vi_content {
+    margin: 53px auto !important;
+    text-align: center !important;
+}
+.vi_icon i {
+    font-size: 50px !important;
+}
+/*About Video End*/
+/*Expertise Start*/
+#expertise {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.exp_box {
+    padding: 30px 0px !important;
+}
+.exp_box h5 {
+    margin: 10px 0 !important;
+    font-size: 18px !important;
+}
+.border01 {
+    border: 1px solid #ebebeb !important;
+}
+.border02 {
+    border: 1px solid #ebebeb !important;
+}
+.border03 {
+    border: 1px solid #ebebeb !important;
+}
+.border04 {
+    border: 1px solid #ebebeb !important;
+}
+/*Expertise End*/
+/*Card Start*/
+.cus_card_margin {
+    margin-top: 25px !important;
+}
+/*Card Start*/
+/*Card Start*/
+#team {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.cus_crm {
+    margin: 0 0 25px 0 !important;
+}
+.cus_card_margin {
+    margin-top: 25px !important;
+}
+/*Card Start*/
+/*Work Slider*/
+.box {
+    height: 172px !important;
+}
+/*Work Slider*/
+/*Testimonial Start*/
+#testimonial {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+.owl-pagination {
+    position: relative !important;
+    z-index: 1 !important;
+    width: 100% !important;
+}
+.owl-buttons {
+    display: none !important;
+}
+.owl-prev, .owl-next {
+    left: -7% !important;
+}
+.owl-next {
+    left: 84% !important;
+}
+/*Testimonial End*/
+/*Contact Start*/
+#contact {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.form_part h4 {
+    text-align: center !important;
+}
+.brand_part h4 {
+    margin-top: 20px !important;
+    margin-bottom: 0 !important;
+}
+/*Contact End*/
+}
+
+/*// `lg` applies to medium devices (tablets, less than 992px)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*Header Start*/
+header {
+    padding: 20px 0px !important;
+    background: #362a5aed;
+}
+/*Header Start*/
+/*Banner Start*/
+.banner {
+    min-height: 570px !important;
+}
+.slider_wrap {
+    padding-top: 150px !important;
+}
+.banh1 {
+    font-size: 30px !important;
+}
+.ban_hr {
+    width: 20% !important;
+}
+.ban_text {
+    line-height: 30px;
+}
+.cus_indi {
+    bottom: -90px !important;
+}
+/*Banner End*/
+/*About Strat*/
+#about {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+/*About End*/
+/*About Video Start*/
+#ab_video {
+    min-height: 250px !important;
+}
+.vi_content {
+    margin: 77px auto !important;
+    text-align: center !important;
+}
+.vi_icon i {
+    font-size: 50px !important;
+}
+/*About Video End*/
+/*Expertise Start*/
+#expertise {
+    padding-top: 70px !important;
+    padding-bottom: 70px !important;
+}
+.exp_box {
+    padding: 30px 0px !important;
+}
+.exp_box h5 {
+    margin: 10px 0 !important;
+    font-size: 18px !important;
+}
+/*Expertise End*/
+/*Card Start*/
+#team {
+    padding-top: 50px !important;
+    padding-bottom: 50px !important;
+}
+.cus_crm {
+    margin: 0 0 25px 0 !important;
+}
+.cus_card_margin {
+    margin-top: 25px !important;
+}
+/*Card Start*/
+#testimonial {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+.owl-pagination {
+    position: relative !important;
+    z-index: 1 !important;
+    width: 100% !important;
+}
+.owl-buttons {
+    display: none !important;
+}
+.owl-prev, .owl-next {
+    left: -7% !important;
+}
+.owl-next {
+    left: 84% !important;
+}
+/*Testimonial End*/
+}
+
+/*// `xl` applies to large devices (desktops, less than 1200px)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*Header Start*/
+header {
+    padding: 20px 0px !important;
+    background: #362a5aed;
+}
+/*Header Start*/
+/*Banner Start*/
+.banner {
+    min-height: 500px !important;
+}
+.slider_wrap {
+    padding-top: 150px !important;
+}
+.banh1 {
+    font-size: 30px !important;
+}
+.ban_hr {
+    width: 20% !important;
+}
+.ban_text {
+    line-height: 30px;
+}
+.cus_indi {
+    bottom: -90px !important;
+}
+/*Banner End*/
+/*About Video Start*/
+#ab_video {
+    min-height: 250px !important;
+}
+.vi_content {
+    margin: 77px auto !important;
+    text-align: center !important;
+}
+.vi_icon i {
+    font-size: 50px !important;
+}
+/*About Video End*/
+/*Testimonial Start*/
+#testimonial {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+.owl-pagination {
+    position: relative !important;
+    z-index: 1 !important;
+    width: 60% !important;
+}
+.owl-buttons {
+    display: block !important;
+}
+.owl-prev, .owl-next {
+    left: 10% !important;
+}
+.owl-next {
+    left: 84% !important;
+}
+/*Testimonial End*/
+}
+
+/*// `xxl` applies to x-large devices (large desktops, less than 1400px)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*Header Start*/
+header {
+    padding: 20px 0px !important;
+}
+/*Header Start*/
+/*About Video Start*/
+#ab_video {
+    min-height: 300px !important;
+}
+.vi_content {
+    margin: 103px auto !important;
+    text-align: center !important;
+}
+.vi_icon i {
+    font-size: 80px !important;
+}
+/*About Video End*/
+/*Testimonial Start*/
+.owl-pagination {
+    width: 60% !important;
+}
+.owl-buttons {
+    display: block !important;
+}
+.owl-prev {
+    left: 7% !important;
+}
+/*Testimonial End*/
+}
+
+/*// `xxl` applies to x-large devices (large than 1400px)*/
+@media (min-width: 1400px) {
+/*Testimonial Start*/
+.owl-pagination {
+    width: 60% !important;
+}
+.owl-buttons {
+    display: block !important;
+}
+.owl-prev {
+    left: 7% !important;
+}
+/*Testimonial End*/
+}
