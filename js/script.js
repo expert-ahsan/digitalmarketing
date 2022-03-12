@@ -9,10 +9,13 @@ $(window).on('scroll', function() {
 /*Slick*/
 $(document).ready(function(){
       $('.work_part01').slick({
-        slidesToShow: 6,
+      slidesToShow: 6,
   		slidesToScroll: 1,
   		autoplay: true,
   		autoplaySpeed: 800,
+      dots: false,
+      prevArrow: false,
+      nextArrow: false,
 
       responsive: [
         {
@@ -47,6 +50,9 @@ $(document).ready(function(){
   		slidesToScroll: 1,
   		autoplay: true,
   		autoplaySpeed: 1000,
+      dots: false,
+      prevArrow: false,
+      nextArrow: false,
 
       responsive: [
         {
