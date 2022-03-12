@@ -362,6 +362,9 @@ header {
 	margin-top: 50px;
 	margin-bottom: 50px;
 }
+.slick-arrow {
+    display: none !important;
+}
 /*Testimonial Start*/
 #testimonial {
     padding-top: 50px;
